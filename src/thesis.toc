@@ -1,0 +1,22 @@
+\select@language {polish}
+\contentsline {section}{\numberline {1}Wst\IeC {\k e}p}{12}{section.1}
+\contentsline {section}{\numberline {2}Cz\IeC {\k e}\IeC {\'s}\IeC {\'c} analityczna}{13}{section.2}
+\contentsline {subsection}{\numberline {2.1}Przegl\IeC {\k a}d literatury}{13}{subsection.2.1}
+\contentsline {subsection}{\numberline {2.2}Jak si\IeC {\k e} robi co\IeC {\'s}tam}{13}{subsection.2.2}
+\contentsline {subsection}{\numberline {2.3}Jak si\IeC {\k e} robi co\IeC {\'s}tam jeszcze innego}{14}{subsection.2.3}
+\contentsline {section}{\numberline {3}Cz\IeC {\k e}\IeC {\'s}\IeC {\'c} syntetyczna}{15}{section.3}
+\contentsline {subsection}{\numberline {3.1}Dlaczego wybra\IeC {\l }em/am t\IeC {\k a} metod\IeC {\k e}}{15}{subsection.3.1}
+\contentsline {subsection}{\numberline {3.2}Dlaczego wybra\IeC {\l }em/am tamt\IeC {\k a} metod\IeC {\k e}}{15}{subsection.3.2}
+\contentsline {section}{\numberline {4}Cz\IeC {\k e}\IeC {\'s}\IeC {\'c} weryfikacyjna}{17}{section.4}
+\contentsline {subsection}{\numberline {4.1}Badanie jednej rzeczy}{17}{subsection.4.1}
+\contentsline {subsection}{\numberline {4.2}Badanie tej samej rzeczy, ale inaczej}{17}{subsection.4.2}
+\contentsline {subsection}{\numberline {4.3}Badanie tego, ale jeszcze inaczej}{18}{subsection.4.3}
+\contentsline {section}{\numberline {5}Zako\IeC {\'n}czenie}{19}{section.5}
+\contentsline {section}{\numberline {6}Przyk\IeC {\l }ady}{21}{section.6}
+\contentsline {subsection}{\numberline {6.1}Listowanie}{21}{subsection.6.1}
+\contentsline {subsection}{\numberline {6.2}Cytowania i przypisy}{21}{subsection.6.2}
+\contentsline {subsection}{\numberline {6.3}Wzory}{21}{subsection.6.3}
+\contentsline {subsection}{\numberline {6.4}Obrazki}{22}{subsection.6.4}
+\contentsline {subsection}{\numberline {6.5}Tabele}{24}{subsection.6.5}
+\contentsline {subsection}{\numberline {6.6}Kod \IeC {\'z}r\IeC {\'o}d\IeC {\l }owy programu}{24}{subsection.6.6}
+\contentsline {section}{Literatura}{25}{lstnumber.-1.22}

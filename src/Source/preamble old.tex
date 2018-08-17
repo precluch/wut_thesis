@@ -1,0 +1,95 @@
+\documentclass[12pt,a4paper,twoside]{report}
+\usepackage[polish]{babel}
+\usepackage{polski}
+\let\lll=\relax
+\usepackage[utf8]{inputenc}
+\usepackage{amsmath}
+\usepackage{amsfonts}
+\usepackage{amssymb}
+\usepackage{setspace}
+\usepackage{graphicx}
+\usepackage{hyphenat}
+\usepackage[bookmarks,pagebackref]{hyperref}
+\usepackage{url}
+\usepackage{MnSymbol}
+\usepackage[left=3.5cm,right=2.5cm,top=2.5cm,bottom=2.5cm]{geometry}
+\usepackage{color}
+\usepackage{array}
+\usepackage{multirow}
+\usepackage{pdfpages}
+\usepackage[table]{xcolor}
+\usepackage{fancyhdr}
+
+\hypersetup{
+	unicode,
+	pdftoolbar,
+	pdfmenubar,
+	pdffitwindow,
+	pdfstartview={FitH},
+	pdftitle={Wizualizacja zderzeń jądrowych rejestrowanych w detektorze MPD przy akceleratorze NICA w Zjednoczonym Instytucie Badań Jądrowych},
+	pdfauthor={Michał Tarasiuk},
+	pdfnewwindow,
+	colorlinks,
+	linktoc=page,
+	linkcolor=red,
+	citecolor=red,
+	filecolor=red,
+	urlcolor=red
+}
+
+\renewcommand{\labelitemi}{\color{red}$\filledsquare$}
+\renewcommand{\labelitemii}{\color{red}$\square$}
+\renewcommand{\labelitemiii}{\color{red}$\bullet$}
+\renewcommand{\labelitemiv}{\color{red}$\ast$}
+
+\definecolor{red}{RGB}{194,0,11}
+
+\pagestyle{fancy}
+\renewcommand{\headrulewidth}{0pt}
+\fancyhf{}
+\fancyfoot[RO]{
+	\arrayrulecolor{red}
+	\begin{tabular}{m{13cm}|m{1cm}}
+		\cline{2-2}
+		& \multirow{2}{*}{~~\thepage} \\ [1.5ex]
+		\cline{1-1}
+	\end{tabular}
+}
+\fancyfoot[LE]{
+	\arrayrulecolor{red}
+	\begin{tabular}{m{1cm}|m{13cm}}
+		\cline{1-1}
+		\multirow{2}{*}{\thepage} & \\ [1.5ex]
+		\cline{2-2}
+	\end{tabular}
+}
+
+\fancypagestyle{plain}{%
+\fancyhf{}
+\fancyfoot[RO]{
+	\arrayrulecolor{red}
+	\begin{tabular}{m{13cm}|m{1cm}}
+		\cline{2-2}
+		& \multirow{2}{*}{~~\thepage} \\ [1.5ex]
+		\cline{1-1}
+	\end{tabular}
+}
+\fancyfoot[LE]{
+	\arrayrulecolor{red}
+	\begin{tabular}{m{1cm}|m{13cm}}
+		\cline{1-1}
+		\multirow{2}{*}{\thepage} & \\ [1.5ex]
+		\cline{2-2}
+	\end{tabular}
+}
+}
+
+\setstretch{1.25}
+%\linespread{1.8}
+\setlength{\parindent}{1.5cm}
+
+\author{Michał Tarasiuk}
+\title{Praca_Dyplomowa}
+\date{2013}
+
+%\usepackage{showframe}
